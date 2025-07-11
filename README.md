@@ -1,15 +1,13 @@
-# ⚡ EA-Charge-Stations
+# ⚡ EV-Charge-Stations
 
-**EA-Charge-Stations** is a full-stack web application for managing EV charging stations. It features authentication, station listings, a map view, and CRUD operations—all packaged in a modern responsive UI.
+**EV-Charge-Stations** is a full-stack web application for managing EV charging stations. It features authentication, station listings, a map view, and CRUD operations—all packaged in a modern responsive UI.
 
 ---
 
 ## 🌐 Live Demo
 
-🌐 Frontend (Static): [EA Charge Stations Live](https://ea-charge-stations-psi.vercel.app/)
-
-
-🔌 Backend API (Render): [ea-charge-stations-kaw0.onrender.com](https://ea-charge-stations-kaw0.onrender.com)
+- 🔗 [Frontend (Vercel)](https://ev-charge-stations.vercel.app/)
+- 🔗 [Backend API (Render)](https://ev-charge-stations.onrender.com)
 
 
 ---
