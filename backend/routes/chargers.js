@@ -10,8 +10,6 @@ const {
 
 const router = express.Router();
 
-router.get('/map', getChargers);
-
 router.use(protect); // All routes require login
 
 router.route('/')
