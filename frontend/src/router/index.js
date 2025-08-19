@@ -32,7 +32,7 @@ const routes = [
     path: '/map',
     name: 'MapView',
     component: MapView,
-    meta: { requiresAuth: false }
+    meta: { requiresAuth: true }
   }
 ]
 
