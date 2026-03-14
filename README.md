@@ -7,7 +7,8 @@
 ## 🌐 Live Demo
 
 - 🔗 [Frontend (Vercel)](https://ev-charge-stations.vercel.app/)
-- 🔗 [Backend API (Render)]([https://ev-charge-stations.onrender.com](https://ev-charge-stations-lcte.onrender.com))
+- 🔗 [Backend API (Render)](https://ev-charge-stations-lcte.onrender.com)
+
 
 
 ---
